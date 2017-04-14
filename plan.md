@@ -25,7 +25,7 @@
 + 实现http/https请求调用。
 + 项目部署。[Linux下Tomcat的安装配置](http://blog.csdn.net/zhuying_linux/article/details/6583096)
 + 了解系统设计。[架构蓝图--软件架构 "4+1" 视图模型](https://www.ibm.com/developerworks/cn/rational/r-4p1-view/)
-+ **编程规范！**[Java编码规范](doc/Java programming-penghy.docx)
++ **编程规范！**[Java编码规范](doc/Java_programming-penghy.docx)
 
 ### Git
 *了解版本控制的意义和Git的原理。*
@@ -90,7 +90,8 @@
 ### Insights
 *洞察，提炼自己的思想。*
 + 提炼笔记，每周总结看到的文章，加上本周的工作内容，给指导老师一个周报。[参考](doc/notes-lirang-20161028.pdf)
-+ 知识分享，自发组织不定期学术交流，讲清楚一篇文章或一个具体问题，展现方式尽量生动，可以请老师参加。学习内容留存率：讲授 > 实践 > 讨论 > 演示 > 视听 > 阅读 > 听讲
++ 知识分享，自发组织不定期学术交流，讲清楚一篇文章或一个具体问题，展现方式尽量生动，可以请老师参加。
++ 学习内容留存率：讲授 > 实践 > 讨论 > 演示 > 视听 > 阅读 > 听讲
 ![讲授](pic/6254dacagy1fe8t988gokj20c80c83yz.jpg)
 
 ---
